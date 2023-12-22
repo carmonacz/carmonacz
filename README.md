@@ -11,15 +11,11 @@
 - **Front-End:**
 
   <ul>
-    <li></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></li>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></li>
-    <li></li>
-    <li></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></li>
   </ul>
-  - HTML
-   CSS (Flexbox, Grid)
-  - JavaScript (ES6+)
-  - React.js
 
 - **Back-End:**
   - PHP
