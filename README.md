@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.cooltext.com/5683909.gif" alt="jose carmona" width="1000"/>
+  <img src="https://images.cooltext.com/5683909.gif" alt="jose carmona" width="500"/>
 </p>
 ## Desarrollador Full-Stack Junior | HTML | CSS | JavaScript | PHP | Python | Node.js | MySQL | React.js
 
