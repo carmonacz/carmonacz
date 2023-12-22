@@ -28,7 +28,7 @@
 
 - Correo Electrónico: carmonajcz@netcarmona.es
 - LinkedIn: https://www.linkedin.com/in/carmonajcz
-- Youtube: <a href="https://www.youtube.com/channel/UCGAjG0qlq_NIBn9bOChmc2Q">Accede a mi canal aquí.</a>
+- Youtube: <a href="https://www.youtube.com/channel/UCGAjG0qlq_NIBn9bOChmc2Q" target="_blank">Accede a mi canal aquí.</a>
 
 ¡Gracias por visitar mi perfil!
 
