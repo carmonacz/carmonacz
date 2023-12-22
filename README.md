@@ -1,3 +1,5 @@
+<div style="background: black"></div>
+
 <p align="center">
   <img src="https://www.netcarmona.es/assets/img/perfil-sin-fondo.png" alt="Avatar" width="250"/>
 </p>
