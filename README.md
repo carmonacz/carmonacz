@@ -9,8 +9,15 @@
 ## Habilidades Técnicas
 
 - **Front-End:**
+
+  <ul>
+    <li></li>
+    <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></li>
+    <li></li>
+    <li></li>
+  </ul>
   - HTML
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS (Flexbox, Grid)
+   CSS (Flexbox, Grid)
   - JavaScript (ES6+)
   - React.js
 
