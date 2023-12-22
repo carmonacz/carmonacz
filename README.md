@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.netcarmona.es/assets/img/photo-perfil.png" alt="Tu Avatar" width="100" style="border-radius: 50%;"/>
+  <img src="https://www.netcarmona.es/assets/img/photo-perfil.png" alt="Tu Avatar" width="100"/>
 </p>
 
 ## Desarrollador Full-Stack Junior | HTML | CSS | JavaScript | PHP | Python | Node.js | MySQL | React.js
