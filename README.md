@@ -10,7 +10,7 @@
 
 - **Front-End:**
   - HTML
-  - CSS (Flexbox, Grid)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> CSS (Flexbox, Grid)
   - JavaScript (ES6+)
   - React.js
 
