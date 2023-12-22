@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://images.cooltext.com/5683909.gif" alt="jose carmona" width="500"/>
 </p>
+
 ## Desarrollador Full-Stack Junior | HTML | CSS | JavaScript | PHP | Python | Node.js | MySQL | React.js
 
 ¡Hola! Soy José Carmona, un apasionado Desarrollador Full-Stack Junior con experiencia en diversas tecnologías web. Me especializo en la creación de aplicaciones web escalables y receptivas utilizando un conjunto de habilidades que abarca tanto el lado del cliente como el del servidor.
