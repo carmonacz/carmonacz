@@ -26,6 +26,10 @@
 
 ¡Estoy emocionado por colaborar en nuevos proyectos y aprender más cada día! Si tienes alguna pregunta, sugerencia o simplemente quieres charlar, ¡no dudes en contactarme!
 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/carmonajcz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carmonajcz/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGAjG0qlq_NIBn9bOChmc2Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josecarmona" height="30" width="40" /></a>
+</p>
 - Correo Electrónico: carmonajcz@netcarmona.es
 - LinkedIn: https://www.linkedin.com/in/carmonajcz
 - Youtube: <a href="https://www.youtube.com/channel/UCGAjG0qlq_NIBn9bOChmc2Q" target="_blank">Accede a mi canal aquí.</a>
