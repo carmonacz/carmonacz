@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.netcarmona.es/assets/img/photo-perfil.png" alt="Avatar" width="150"/>
+  <img src="https://www.netcarmona.es/assets/img/photo-perfil.png" alt="Avatar" width="250"/>
 </p>
 
 <p align="center">
