@@ -1,4 +1,6 @@
-<div style="background: black"></div>
+<div style="background: black">
+  <h1>Esto es un texto con el fondo negro</h1>
+</div>
 
 <p align="center">
   <img src="https://www.netcarmona.es/assets/img/perfil-sin-fondo.png" alt="Avatar" width="250"/>
